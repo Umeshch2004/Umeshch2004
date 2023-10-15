@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Umesh CH</h1>
-<h3 align="center">A passionate frontend developer,C++ Developer and DSA</h3>
+<h3 align="center">A passionate Machine Learning,C++ Developer and DSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshch2004&label=Profile%20views&color=0e75b6&style=flat" alt="umeshch2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshch2004" alt="umeshch2004" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,JAVA**
+- 🌱 I’m currently learning **DSA,JAVA,Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://umeshch2004.github.io/Portfolio-Website/](https://umeshch2004.github.io/Portfolio-Website/)
 
