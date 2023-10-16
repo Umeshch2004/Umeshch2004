@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshch2004&show_icons=true&locale=en" alt="umeshch2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshch2004&" alt="umeshch2004" /></p>
+
+[![An image of @umeshch2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umeshch2004)](https://holopin.io/@umeshch2004)
