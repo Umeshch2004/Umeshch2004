@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umesh CH</h1>
-<h3 align="center">A passionate Machine Learning,C++ Developer and DSA</h3>
+<h3 align="center">A passionate Frontend Developer, Machine Learning and DSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshch2004&label=Profile%20views&color=0e75b6&style=flat" alt="umeshch2004" /> </p>
 
